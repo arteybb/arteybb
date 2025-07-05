@@ -1,9 +1,11 @@
 <h1>Hi 👋, I'm Phuwakorn Kaiyasuan</h1>
 <h3>A passionate Fullstack Developer</h3>
 
-## 💻 About Me
+## About Me
 
-I'm a passionate Fullstack Developer with experience in building scalable web applications and modern software solutions. I love turning ideas into reality using clean and efficient code. Whether it's crafting sleek UIs or building robust backend systems, I thrive on full-stack challenges.
+A recent graduate from the College of Arts, Media and Technology (CAMT) with a degree in Modern Management and Information Technology. I have a strong interest in full-stack web development and am eager to apply and expand my technical skills in a real-world environment while contributing to building efficient and user-friendly web applications.
+
+## Portfolio (Work in Progress): [https://portfolio-phuwakorn.vercel.app/](https://portfolio-phuwakorn.vercel.app/)
 
 I'm based in Bangkok, Thailand
 You can contact me at [aphuwakorn2@gmail.com](mailto:aphuwakorn2@gmail.com)
