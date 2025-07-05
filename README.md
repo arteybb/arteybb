@@ -38,7 +38,7 @@ You can contact me at [aphuwakorn2@gmail.com](mailto:aphuwakorn2@gmail.com)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg](https://nestjs.com/logo-small-gradient.d792062c.svg)" alt="nestjs" width="40" height="40"/> 
+    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/> 
   </a> 
 
   <!-- Databases -->
